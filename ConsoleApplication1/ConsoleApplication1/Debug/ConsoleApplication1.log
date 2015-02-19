@@ -1,0 +1,3 @@
+﻿  Source.cpp
+f:\informatyka\programyc++\szyfrowanie\vigenere\consoleapplication1\consoleapplication1\source.cpp(135): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  ConsoleApplication1.vcxproj -> F:\Informatyka\ProgramyC++\Szyfrowanie\Vigenere\ConsoleApplication1\Debug\ConsoleApplication1.exe
